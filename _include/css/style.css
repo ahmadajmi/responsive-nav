@@ -71,16 +71,8 @@ a:focus {
 /* =============    Header                  ============= */
 
 .header-section {
-    position: absolute;
-    top: 0;
-    z-index: 99;
-    background-color: #FFFFFF;
     padding: 1em 0;
     width: 100%;
-    -webkit-transition: all .7s ease;
-    -moz-transition: all .7s ease;
-    -o-transition: all .7s ease;
-    transition: all .7s ease;
 }
 
 .logo {
@@ -178,24 +170,6 @@ a:focus {
 }
 
 @media only screen and (min-width: 768px) { 
-
-    .header-section {
-        padding: 2em;
-        background-color: rgba(255, 255, 255, 0.9);
-    }
-
-    .header-section.active {
-        background-color: #FFFFFF;
-    }
-
-    .header-section.stick {
-        position: fixed; 
-        left: 0;
-        right: 0;
-        top: 0;
-        padding: 1em 0;
-        border-bottom: 1px solid #F6F8F8;
-    }
 
     .nav-toggle { 
         display: none;
