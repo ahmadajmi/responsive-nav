@@ -35,11 +35,11 @@
 			</a>
 
 			<div class="logo left">
-				<a href="index.php" title="Responsive Menu" class="transition">AJMI</a>
+				<a href="index.php" title="Responsive Menu">Logo</a>
 			</div>
 
-			<nav class="right">
-				<ul class="nav main-nav">
+			<nav class="nav right">
+				<ul class="main-nav">
 					<li><a href="#">Home</a></li>
 					<li><a href="#">Services</a></li>
 					<li><a href="#">Work</a></li>
